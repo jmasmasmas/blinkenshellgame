@@ -1,6 +1,6 @@
 # blinkenshellgame
 
-This game is gonna be about
+This game is gonna be about.
   -dragons
   -magic
   -puzzles
